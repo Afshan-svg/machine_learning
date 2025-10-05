@@ -59,7 +59,6 @@ print(x)
 print(y)
 print(z)
 
-"""# input Function"""
 
 number_1 = int(input("Enter the first number : "))
 number_2 = int(input("Enter the second number : "))
@@ -67,6 +66,6 @@ number_2 = int(input("Enter the second number : "))
 sum = number_1 + number_2
 print(sum)
 
-# changing the data type in python:
+# changing data type in python ->
 num = 5
 print(float(num))
